@@ -25,6 +25,12 @@ const characters = [
         description: "The clever pirate captain",
         image: "https://i.imgur.com/hqNQfRM.png",
     },
+    {
+        id: 5,
+        name: "Sherlock Holmes",
+        description: "The brilliant detective",
+        image: "https://i.imgur.com/Nx3vQTP.png",
+    },
 ];
 
 export default characters;
